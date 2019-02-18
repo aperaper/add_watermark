@@ -30,3 +30,5 @@ class AddWaterMark(object):
 
 ad = AddWaterMark()
 ad.add_mark('C:/Users/xy/Desktop/', 'lena123321321.jpg', 'ScreenClip.jpg')
+print(123)
+print(456)
