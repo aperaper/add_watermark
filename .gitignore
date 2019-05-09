@@ -118,6 +118,6 @@ dmypy.json
 *.xml
 *.pyc
 *.iml
-*.txt
+
 db.json
 TbShopSpider1.py
