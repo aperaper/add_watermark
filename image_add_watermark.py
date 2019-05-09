@@ -5,7 +5,7 @@ __author__ = 'Xry'
 import PIL
 from PIL import Image, ImageDraw, ImageFont
 
-
+#
 # 加文字水印
 # ft = ImageFont.truetype('C:\Windows\Fonts\Arial.ttf', 36)
 #
